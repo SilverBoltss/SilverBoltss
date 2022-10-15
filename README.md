@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Meta Front-End Courses](https://coursera.org/share/96406288caa2cdbb380b546de81e3002)
 
-- 🌱 I’m currently learning **JavaScript - Front-End Development**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 📫 How to reach me **william.ch2@Hotmail.com**
 
